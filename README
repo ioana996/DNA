@@ -1,0 +1,15 @@
+Tema 1-Structuri de Date
+Stroinea Ioana, 315CC
+-----------------------------------
+Implementare:	Tema contine functia de creare a listelor, cat si cele de realizare
+		a operatiilor cerute pe listele create.Implementarea a fost facuta 
+		utilizand liste simplu inlantuite.De asemenea, am creat doua stive 
+		- una pentru operatia de undo, iar cealalta numita "Undo" retine
+		toate informatiile despre un nod care a fost inserat, sters sau editat,
+		astfel incat la operatia undo sa se stie unde trebuie efectuata operatia
+		inversa in lista.Functia Validation merge nod cu nod pe fiecare lista
+		si verifica daca nodurile corespunzatoare de pe cele doua liste au
+		aceeasi valoare de adevar.Daca acestea au toate aceeasi valoare, atunci
+		inseamna ca listele corespund ca numar de bucle si indecsi, deci se
+		merge iar de la inceput nod cu nou si se verifica daca numele nodurilor
+		corespund regulii din ADN.
